@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.blend
+*.blend1
+*.blend2
+*.blend@
+*.zip
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
